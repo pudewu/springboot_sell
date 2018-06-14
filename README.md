@@ -1,0 +1,4 @@
+# springboot_sell
+springboot项目整合小练习
+
+通过spring boot基础来开发的一套后台系统，然后调用微信接口来实现微信支付下单
